@@ -1,0 +1,10 @@
+[
+  {
+    "package": "GFM",
+    "oncran": true
+  },
+  {
+    "package": "ILSE",
+    "oncran": true
+  }
+]

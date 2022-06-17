@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "GFM"]
+	path = GFM
+	url = https://github.com/feiyoung/gfm
+	shallow = true
+	registered = true
+[submodule "ILSE"]
+	path = ILSE
+	url = https://github.com/feiyoung/ilse
+	shallow = true
+	registered = true
