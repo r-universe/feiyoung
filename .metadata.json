@@ -6,5 +6,9 @@
   {
     "package": "ILSE",
     "oncran": true
+  },
+  {
+    "package": "PRECAST",
+    "oncran": true
   }
 ]

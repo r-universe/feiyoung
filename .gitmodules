@@ -13,3 +13,8 @@
 	url = https://github.com/feiyoung/ilse
 	shallow = true
 	registered = true
+[submodule "PRECAST"]
+	path = PRECAST
+	url = https://github.com/feiyoung/precast
+	shallow = true
+	registered = true
