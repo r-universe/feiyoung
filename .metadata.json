@@ -1,5 +1,9 @@
 [
   {
+    "package": "DR.SC",
+    "oncran": true
+  },
+  {
     "package": "GFM",
     "oncran": true
   },
