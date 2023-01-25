@@ -14,5 +14,9 @@
   {
     "package": "PRECAST",
     "oncran": true
+  },
+  {
+    "package": "TOSI",
+    "oncran": true
   }
 ]
