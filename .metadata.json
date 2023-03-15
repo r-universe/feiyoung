@@ -4,19 +4,19 @@
     "oncran": true
   },
   {
-    "package": "GFM",
-    "oncran": true
-  },
-  {
-    "package": "ILSE",
-    "oncran": true
-  },
-  {
     "package": "PRECAST",
     "oncran": true
   },
   {
+    "package": "GFM",
+    "oncran": true
+  },
+  {
     "package": "TOSI",
+    "oncran": true
+  },
+  {
+    "package": "ILSE",
     "oncran": true
   }
 ]
