@@ -8,23 +8,23 @@
 	url = https://github.com/feiyoung/dr.sc
 	shallow = true
 	registered = true
-[submodule "PRECAST"]
-	path = PRECAST
-	url = https://github.com/feiyoung/precast
-	shallow = true
-	registered = true
 [submodule "GFM"]
 	path = GFM
 	url = https://github.com/feiyoung/gfm
 	shallow = true
 	registered = true
-[submodule "TOSI"]
-	path = TOSI
-	url = https://github.com/feiyoung/tosi
-	shallow = true
-	registered = true
 [submodule "ILSE"]
 	path = ILSE
 	url = https://github.com/feiyoung/ilse
+	shallow = true
+	registered = true
+[submodule "PRECAST"]
+	path = PRECAST
+	url = https://github.com/feiyoung/precast
+	shallow = true
+	registered = true
+[submodule "TOSI"]
+	path = TOSI
+	url = https://github.com/feiyoung/tosi
 	shallow = true
 	registered = true
