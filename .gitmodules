@@ -23,6 +23,11 @@
 	url = https://github.com/feiyoung/precast
 	shallow = true
 	registered = true
+[submodule "ProFAST"]
+	path = ProFAST
+	url = https://github.com/feiyoung/profast
+	shallow = true
+	registered = true
 [submodule "TOSI"]
 	path = TOSI
 	url = https://github.com/feiyoung/tosi
