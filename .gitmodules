@@ -14,6 +14,9 @@
 [submodule "ILSE"]
 	path = ILSE
 	url = https://github.com/feiyoung/ilse
+[submodule "MultiCOAP"]
+	path = MultiCOAP
+	url = https://github.com/feiyoung/multicoap
 [submodule "PRECAST"]
 	path = PRECAST
 	url = https://github.com/feiyoung/precast
