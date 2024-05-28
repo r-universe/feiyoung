@@ -23,6 +23,9 @@
 [submodule "ProFAST"]
 	path = ProFAST
 	url = https://github.com/feiyoung/profast
+[submodule "SpaCOAP"]
+	path = SpaCOAP
+	url = https://github.com/feiyoung/spacoap
 [submodule "TOSI"]
 	path = TOSI
 	url = https://github.com/feiyoung/tosi
