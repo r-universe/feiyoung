@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "CMGFM"]
+	path = CMGFM
+	url = https://github.com/feiyoung/cmgfm
 [submodule "COAP"]
 	path = COAP
 	url = https://github.com/feiyoung/coap
