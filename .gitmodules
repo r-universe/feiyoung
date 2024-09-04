@@ -17,6 +17,9 @@
 [submodule "ILSE"]
 	path = ILSE
 	url = https://github.com/feiyoung/ilse
+[submodule "MMGFM"]
+	path = MMGFM
+	url = https://github.com/feiyoung/mmgfm
 [submodule "MultiCOAP"]
 	path = MultiCOAP
 	url = https://github.com/feiyoung/multicoap
