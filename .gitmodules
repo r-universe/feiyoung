@@ -29,6 +29,9 @@
 [submodule "ProFAST"]
 	path = ProFAST
 	url = https://github.com/feiyoung/profast
+[submodule "RMFM"]
+	path = RMFM
+	url = https://github.com/feiyoung/rmfm
 [submodule "SpaCOAP"]
 	path = SpaCOAP
 	url = https://github.com/feiyoung/spacoap
