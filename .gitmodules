@@ -14,9 +14,6 @@
 [submodule "GFM"]
 	path = GFM
 	url = https://github.com/feiyoung/gfm
-[submodule "ILSE"]
-	path = ILSE
-	url = https://github.com/feiyoung/ilse
 [submodule "MMGFM"]
 	path = MMGFM
 	url = https://github.com/feiyoung/mmgfm
