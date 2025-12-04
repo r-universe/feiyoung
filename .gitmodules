@@ -20,6 +20,9 @@
 [submodule "MultiCOAP"]
 	path = MultiCOAP
 	url = https://github.com/feiyoung/multicoap
+[submodule "MultiRFM"]
+	path = MultiRFM
+	url = https://github.com/feiyoung/multirfm
 [submodule "PRECAST"]
 	path = PRECAST
 	url = https://github.com/feiyoung/precast
