@@ -35,9 +35,6 @@
 [submodule "SpaCOAP"]
 	path = SpaCOAP
 	url = https://github.com/feiyoung/spacoap
-[submodule "TOSI"]
-	path = TOSI
-	url = https://github.com/feiyoung/tosi
 [submodule "coFAST"]
 	path = coFAST
 	url = https://github.com/feiyoung/cofast
